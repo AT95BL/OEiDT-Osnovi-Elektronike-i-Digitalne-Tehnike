@@ -1,0 +1,3 @@
+Nakon ove laboratorijske vježbe smatra se da je student
+spodoban sam da samostalno podesi vrstu simulacije i parametre
+generatora..

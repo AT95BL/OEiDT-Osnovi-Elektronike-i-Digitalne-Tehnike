@@ -1,0 +1,3 @@
+Pmos tranzistor je potrebno rotirati i to sa: ctrl+e, ctrl+r, ctrl+r
+U gornjem desnom uglu imamo .op i tu kopiramo informacije o tranzistoru
+Dobijamo ocekivani grafik

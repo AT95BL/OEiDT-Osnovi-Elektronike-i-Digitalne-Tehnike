@@ -1,0 +1,2 @@
+Trise i Tfall uvijek postavimo na 1f
+Kad dobijemo grafik onda onim linijama odredimo tplh i tphl

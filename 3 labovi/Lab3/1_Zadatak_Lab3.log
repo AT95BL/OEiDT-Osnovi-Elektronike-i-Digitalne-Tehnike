@@ -1,0 +1,25 @@
+Circuit: * C:\Users\AT95\OneDrive\Desktop\6_OEiDT\10_labs\Lab3\1_Zadatak_Lab3.asc
+
+.step temp=-75°C
+.OP point found by inspection.
+.step temp=0°C
+.step temp=25°C
+.step temp=125°C
+
+Date: Tue Jan 17 13:19:32 2023
+Total elapsed time: 0.500 seconds.
+
+tnom = 27
+temp = 125
+method = trap
+totiter = 201
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 4
+fillins = 0
+solver = Normal
+Matrix Compiler1:       6 opcodes  0.2/[0.2]/0.2
+Matrix Compiler2: off  [0.1]/0.2/0.1
+

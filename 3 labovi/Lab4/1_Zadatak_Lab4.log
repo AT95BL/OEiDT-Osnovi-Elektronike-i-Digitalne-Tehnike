@@ -1,0 +1,29 @@
+Circuit: * C:\Users\AT95\OneDrive\Desktop\6_OEiDT\10_labs\Lab4\1_Zadatak_Lab4.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+.step var=0.0001
+.step var=0.0002
+.step var=0.0003
+.step var=0.0004
+.step var=0.0005
+
+Date: Tue Jan 17 11:57:18 2023
+Total elapsed time: 1.087 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 614
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 6
+fillins = 0
+solver = Normal
+Matrix Compiler1: 360 bytes object code size  0.3/0.2/[0.2]
+Matrix Compiler2: off  [0.1]/0.2/0.1
+
